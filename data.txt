@@ -1,0 +1,5 @@
+{ Student-name - "John Carl", "A123456", ["DGL101", "DGL103", DGL"105"]}
+{ Student-name - "Jack Doe", "B234567", ["DGL101", "DGL103", DGL"105"]}
+{ Student-name - "Jane Smith", "C345612", ["DGL101", "DGL103", DGL"105"]}
+{ Student-name - "Love simms", "A123456", ["DGL101", "DGL103", DGL"105"]}
+{ Student-name - " Carl", "A123456", ["DGL101", "DGL103", DGL"105"]}
